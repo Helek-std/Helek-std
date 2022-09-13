@@ -7,7 +7,7 @@ I'm junnior c developer
 
 
 
-![](https://github.com/Helek-std/Helek-std/Front.gif)
+![](https://github.com/Helek-std/Helek-std/ezgif_com-gif-maker16-1.gif)
 <!--
 **Helek-std/Helek-std** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
