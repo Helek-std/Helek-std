@@ -1,5 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
+I'm junnior c developer
+🌱 I’m currently studuing at SPbPU as Information security specialist. Here you can find some of my university lab codes.
+
+<!--gif-->
+
+
+
+![](https://github.com/Helek-std/Helek-std/Front.gif)
 <!--
 **Helek-std/Helek-std** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
